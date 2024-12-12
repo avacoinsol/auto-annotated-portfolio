@@ -17,7 +17,7 @@ sections:
     subtitle: 'If not fren, why friend shaped?'
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
