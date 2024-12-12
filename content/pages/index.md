@@ -52,7 +52,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Telegram
         altText: ''
         url: 'https://t.me/+21ncKa3Ijz00NjUy'
         showIcon: false
