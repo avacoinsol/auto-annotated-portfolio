@@ -60,4 +60,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+    text: |
+      CA: 2aM1HWiLHrB1YYNP16imiZ16Gj6Wowp8k4y6T1Yipump
 ---
