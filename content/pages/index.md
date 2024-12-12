@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/น้องเอวา-เสือโคร่งสตรอว์เบอร์รี-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
