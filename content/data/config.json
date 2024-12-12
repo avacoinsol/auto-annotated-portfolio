@@ -27,13 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "X",
-                "label": "X",
-                "url": "https://x.com/avacoinsol",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
