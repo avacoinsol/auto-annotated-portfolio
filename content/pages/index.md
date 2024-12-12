@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/น้องเอวา-เสือโคร่งสตรอว์เบอร์รี-1.jpg
+  url: /images/468191006_984139073754584_6148040089915024059_n 2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -18,7 +18,7 @@ sections:
     styles:
       self:
         height: screen
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
