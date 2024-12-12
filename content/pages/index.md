@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: X
         altText: ''
         url: 'https://x.com/avacoinsol'
         showIcon: false
